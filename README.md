@@ -1,6 +1,7 @@
--- 👋 Helo, I’m @Rooilo0
--- 👀 I’m interested in upload some assets to make easier the people's live
--- 🌱 I’m currently learning html, css and JavaScript orientated to html
--- 💞️ I’m looking to collaborate on Bucket's Garage
--- 📫 The wat of reach me is using my Discord: rooilo0! (Rooilo0#9080)
--- 📜The lenguage where I best code is Lua.
+Hi, Im Rooilo0!
+I like making games as hobby but nothing serious.
+You can visit [my itch.io page](https://rooilo0.itch.io/) to see some of the games I made.
+If you want to contact me, you can do it by:
+```
+Discord: rooilo0
+```
